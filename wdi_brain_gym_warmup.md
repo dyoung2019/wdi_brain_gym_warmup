@@ -12,6 +12,8 @@ Make a new github repository and Push it!
 ## Question One
 You stand at a fork in the road. Next to each of the two forks, there stands a guard. You know the following things: First that one path leads to paradise, the other leads to Death. You cannot distinguish between the two paths. You also know that one of the two guards always tells the truth and the other always lies. You have permission to ask one guard one question to discover which path leads to paradise. What one question would you ask to guarantee you take the path to paradise?
 
+**ANSWER**: No idea
+
 
 ## Question Two
 A man walks into an art gallery and concentrates on one picture in particular. The museum curator notices this and asks the man why he is so interested in that one painting. The man replies, "Brothers and sisters have I none, but that man's father is my father's son."
@@ -20,15 +22,23 @@ Who is in the painting?
 
 :neckbeard:
 
+**ANSWER**: His father ?
+
+(man's father (-1) = my father son (+1) )
+
 ## Question Three
 Name four days of the week that start with the letter "t"?
 
 :hamburger: :cocktail: :beer:
 
+**ANSWER**: Today, tommorrow, Tuesday, Thursday.
+
 ## Question Four
 A man has to get a fox, a chicken, and a sack of corn across a river. He has a row boat, and it can only carry him and one other thing. If the fox and the chicken are left together, the fox will eat the chicken. If the chicken and the corn are left together, the chicken will eat the corn. How does the man do it?
 
 :chicken: :wolf: :corn:
+
+**ANSWER**: Take the chicken first over the river, come back for the corn, then bring the chicken back on the next trip, take the fox over, came back and then bring the chicken on the boat for the third time.
 
 ## Question Five
 
@@ -36,6 +46,14 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 
 What is highest number of figs you can get to Capertown?
 
+**ANSWER**: 0 if it one-way.
+
+If there are mid-way port (e.g. Port A at 500 nautical miles) to Capertown,
+
+Maybe 500 figs if,
+  - first trip of 1000 figs half-way, leaves 500 figs left. Store the left figs. (minus 500 figs in tax)
+  - second trip of 1000 figs, leaves 500 figs left. Pick up the other 500 at Port A.
+  - Continue the journey to Capertown with 1000 figs (500 + 500). Pay 500 figs for tax.
 
 ## Question Six
 
