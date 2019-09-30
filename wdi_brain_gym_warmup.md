@@ -24,7 +24,7 @@ Who is in the painting?
 
 **ANSWER**: His father ?
 
-(man's father (-1) = my father son (+1) )
+(man's father (-1) = my father son (+1) => man in portrait = my father's son's father.)
 
 ## Question Three
 Name four days of the week that start with the letter "t"?
@@ -59,9 +59,15 @@ Maybe 500 figs if,
 
 Question: A surgeon named Hal and a bus driver named Al are both in love with the same woman named Paige. Al needs to go for a long trip of 10 days. Before he left he gave Paige 10 apples. Why?
 
+**ANSWER**:
+> 'An apple a day keeps the doctor away'
+
+So Al thinks 10 apples would keep Hal away from Paige.
 
 ## Question Seven
 
 Question: A young woman is attending her mother's funeral. While there, she meets a man she has never seen before and falls in love immediately. After the funeral she tries to find him but cannot. Several days later she kills her sister.
 
 Why does she kill her sister?
+
+**ANSWER**: She thinks that if there is another funeral, she can meet the man again.
